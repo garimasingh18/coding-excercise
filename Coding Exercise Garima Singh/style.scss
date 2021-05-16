@@ -91,7 +91,7 @@ ul {
 }
 
 .btn {
-  @include box-shadow(0px 5px 0px $blue-darken-10);
+  @include box-shadow(0 5px 0 $blue-darken-10);
   @include transition(All 250ms ease);
   @include border-radius(5px);
 
