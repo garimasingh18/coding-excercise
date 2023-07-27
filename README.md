@@ -16,7 +16,7 @@ It has used flex design for responsiveness.
 
 ### Installing
 
-* Downlaod folder from https://github.com/garimasingh18/coding-excercise on to your loacl machine
+* Downlaod folder from [https://github.com/garimasingh18/coding-excercise](https://github.com/garimasingh18/shuffle-and-sort) on to your local machine
 
 ### Executing program
 
