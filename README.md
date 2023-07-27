@@ -8,7 +8,8 @@ This is a small program to shuffle or sort numbers from 0 to 9.
 It has been written in Javascript and SCSS.
 It has used flex design for responsiveness. 
 
-## Getting Started
+## Demo
+https://garimasingh18.github.io/shuffle-and-sort/
 
 ### Dependencies
 
